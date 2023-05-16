@@ -1,4 +1,5 @@
 # https://adventofcode.com/2020/day/2
+# I may have misunderstood the task here... :) I think 2pd is correct.
 
 class Data:
     def __init__(self, data):
